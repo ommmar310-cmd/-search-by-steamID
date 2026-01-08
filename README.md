@@ -24,7 +24,7 @@ requests
 pip install requests
 ```
 
-Arch
+Arch users
 
 ```bash
 sudo pacman -S python-requests
