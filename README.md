@@ -19,9 +19,11 @@ now you can use search.py to search a game inside the accounts just run it then 
 dependices
 ----------------------
 requests 
+---bash
 pip install requests
-
+---
 Arch
+---bash
 sudo pacman -S python-requests
-
+---
 ------------------------
